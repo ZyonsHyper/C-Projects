@@ -1,0 +1,16 @@
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\bin\Release\net8.0-windows\Money Helper Ui.exe
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\bin\Release\net8.0-windows\Money Helper Ui.deps.json
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\bin\Release\net8.0-windows\Money Helper Ui.runtimeconfig.json
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\bin\Release\net8.0-windows\Money Helper Ui.dll
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\bin\Release\net8.0-windows\Money Helper Ui.pdb
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\Money Helper Ui.csproj.GenerateResource.cache
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\Money Helper Ui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\Money Helper Ui.AssemblyInfoInputs.cache
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\Money Helper Ui.AssemblyInfo.cs
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\Money Helper Ui.csproj.CoreCompileInputs.cache
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\Money Helper Ui.dll
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\refint\Money Helper Ui.dll
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\Money Helper Ui.pdb
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\Money Helper Ui.genruntimeconfig.cache
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\ref\Money Helper Ui.dll
+C:\Users\Layne\Desktop\C++ Projects\Money Healper\Money Helper Ui\obj\Release\net8.0-windows\Money_Helper_Ui.StartForm.resources
